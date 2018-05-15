@@ -1,0 +1,27 @@
+{
+  "name": "dukt/foo",
+  "description": "Bar.",
+  "version": "1.0.0",
+  "type": "craft-plugin",
+  "authors": [
+    {
+      "name": "Dukt",
+      "homepage": "https://dukt.net/"
+    }
+  ],
+  "support": {
+    "email": "support@dukt.net",
+    "issues": "https://github.com/dukt/foo/issues?state=open",
+    "source": "https://github.com/dukt/foo",
+    "docs": "https://github.com/dukt/foo",
+    "rss": "https://github.com/dukt/foo/commits/v2.atom"
+  },
+  "require": {
+    "craftcms/cms": "^3.0.0-RC1"
+  },
+  "extra": {
+    "name": "Foo",
+    "handle": "foo",
+    "schemaVersion": "1.0.0"
+  }
+}
