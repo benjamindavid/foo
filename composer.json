@@ -1,5 +1,5 @@
 {
-  "name": "dukt/foo",
+  "name": "dukt/social",
   "description": "Bar.",
   "version": "1.0.0",
   "type": "craft-plugin",
@@ -11,17 +11,17 @@
   ],
   "support": {
     "email": "support@dukt.net",
-    "issues": "https://github.com/dukt/foo/issues?state=open",
-    "source": "https://github.com/dukt/foo",
-    "docs": "https://github.com/dukt/foo",
-    "rss": "https://github.com/dukt/foo/commits/v2.atom"
+    "issues": "https://github.com/benjamindavid/social/issues?state=open",
+    "source": "https://github.com/benjamindavid/social",
+    "docs": "https://github.com/benjamindavid/social",
+    "rss": "https://github.com/benjamindavid/social/commits/v2.atom"
   },
   "require": {
     "craftcms/cms": "^3.0.0-RC1"
   },
   "extra": {
-    "name": "Foo",
-    "handle": "foo",
+    "name": "Social",
+    "handle": "social",
     "schemaVersion": "1.0.0"
   }
 }
